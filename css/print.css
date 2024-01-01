@@ -1,0 +1,11 @@
+@media print {
+    body {
+        font-size: 14pt;
+        margin: 1cm;
+    }
+    
+    .card-login {
+        width: 90%;
+        margin: 0 auto;
+    }
+}
